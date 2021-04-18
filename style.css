@@ -21,5 +21,6 @@
   margin: 0;
   width: 60px;
   background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+  cursor: pointer;
+  outline: none;
 }
-/*# sourceMappingURL=style.css.map */
