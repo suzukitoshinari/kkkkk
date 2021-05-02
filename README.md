@@ -2,7 +2,9 @@
 
 使用技術はJavaScriptとSCSS。
 
-Firebase Hosting　でデプロイ。
+Firebase Hostingでデプロイ。
+
+スタート・ストップ・リセット機能を実装。
 
 ## URL
 
